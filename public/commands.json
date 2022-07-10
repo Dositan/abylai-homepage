@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ping",
+        "description": "replies with pong"
+    },
+    {
+        "name": "server",
+        "description": "sends some info about the current server"
+    },
+    {
+        "name": "user",
+        "description": "sends some info about your account"
+    },
+    {
+        "name": "echo",
+        "description": "sends what you say"
+    },
+    {
+        "name": "tag",
+        "description": "gives description for a specific tag"
+    },
+    {
+        "name": "taginfo",
+        "description": "shows info on a certain tag"
+    },
+    {
+        "name": "addtag",
+        "description": "allows you to add tags"
+    },
+    {
+        "name": "edittag",
+        "description": "allows you to edit a certain tag"
+    },
+    {
+        "name": "showtags",
+        "description": "list all tags the database has"
+    }
+]
