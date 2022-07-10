@@ -1,5 +1,5 @@
 import Layout from "../components/layout";
-import Main from '../components/Main'
+import Main from '../components/main'
 import Section from "../components/section";
 
 export default function Home() {
