@@ -7,10 +7,6 @@ const LogoBox = styled.span`
   font-size: 18px;
   display: inline-flex;
   align-items: center;
-
-  &:hover img {
-    transform: rotate(-20deg);
-  }
 `
 
 const Logo = () => {

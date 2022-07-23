@@ -14,8 +14,8 @@ import {
   useColorModeValue,
 } from "@chakra-ui/react";
 import { HamburgerIcon } from "@chakra-ui/icons";
-import Logo from "./logo";
-import ThemeToggleButton from "./theme-toggle-button";
+import Logo from "./Logo";
+import ThemeToggleButton from "./ThemeToggle";
 
 const LinkItem = ({ href, path, children }) => {
   const active = path === href;
@@ -90,7 +90,7 @@ const Navbar = (props) => {
                 </NextLink>
                 <MenuItem
                   as={Link}
-                  href="https://github.com/craftzdog/craftzdog-homepage"
+                  href="https://github.com/Dositan/abylai"
                 >
                   View Source
                 </MenuItem>

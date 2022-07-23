@@ -1,5 +1,5 @@
 import { Box, Image, Heading, Text, useColorModeValue } from "@chakra-ui/react";
-import Links from "./links";
+import Links from "./Links";
 
 export default function Main() {
   return (

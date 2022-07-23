@@ -1,6 +1,6 @@
-import Layout from "../components/layout";
-import Main from '../components/main'
-import Section from "../components/section";
+import Layout from "../components/Layout";
+import Main from '../components/Main'
+import Section from "../components/Section";
 
 export default function Home() {
   return (

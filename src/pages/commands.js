@@ -6,9 +6,9 @@ import {
   ListItem,
   useColorModeValue,
 } from "@chakra-ui/react";
-import Layout from "../components/layout";
-import Section from "../components/section";
-import commands from "../public/commands.json";
+import Layout from "../components/Layout";
+import Section from "../components/Section";
+import commands from "../data/commands.json";
 
 export default function Commands() {
   const commandBg = useColorModeValue("gray.300", "gray.800");
